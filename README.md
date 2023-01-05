@@ -17,8 +17,8 @@ This is a simple calculator application developed using Flutter. <br /> It allow
 To run the app, follow these steps: <br/>
 
 1. Clone the repository. <br/>
-git clone https://github.com/your-username/calculator.git <br/>
-2.Navigate to the project directory. <br/>
+git clone https://github.com/your-username/calculator.git 
+2. Navigate to the project directory. <br/>
 cd calculator <br/>
 3. Run the app <br/>
 flutter run <br/>
