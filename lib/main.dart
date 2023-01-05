@@ -22,10 +22,10 @@ class _MyAppState extends State<MyApp> {
       debugShowCheckedModeBanner: false,
       title: 'Calculator Application',
       home: Scaffold(
-        appBar: AppBar(
-          backgroundColor: Colors.black,
-          title: Center(child: Text('Calculator' , style: TextStyle( fontSize: 28 , color: Color(0xffffa00a)),)),
-        ),
+        // appBar: AppBar(
+        //   title: Center(child: Text('Calculator' , style: TextStyle( fontSize: 28 , color: Color(0xffffa00a)),)),
+
+        // ),
         backgroundColor: Colors.black,
         body: SafeArea(
           child: Padding(
