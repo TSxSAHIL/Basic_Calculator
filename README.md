@@ -6,7 +6,12 @@ This is a simple calculator application developed using Flutter. <br /> It allow
 
 -> Basic arithmetic operations (addition, subtraction, multiplication, division) <br />
 -> Clear button to reset the calculator <br />
--> Display for showing the current input and result
+-> Display for showing the current input and result <br/>
+
+# UI ( Design )
+
+
+<img src="https://drive.google.com/file/d/1MojgrB6NyMG_k24EOxCf55LAh554tVJ9/view?usp=share_link" width="200" height="400">
 
 ## Getting started
 To run the app, follow these steps: <br/>
