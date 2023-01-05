@@ -11,7 +11,7 @@ This is a simple calculator application developed using Flutter. <br /> It allow
 # UI ( Design )
 
 
-<img src="https://drive.google.com/file/d/1MojgrB6NyMG_k24EOxCf55LAh554tVJ9/view?usp=share_link" width="200" height="400">
+<img src="https://user-images.githubusercontent.com/80686569/210881456-9001f138-61d9-4b3c-93bb-5f72e534269c.png" width="200" height="400">
 
 ## Getting started
 To run the app, follow these steps: <br/>
