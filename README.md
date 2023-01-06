@@ -31,7 +31,7 @@ Create a new branch for your changes. <br/>
 Make sure the code follows the Flutter style guide. <br/>
 Create a pull request with a detailed description of your changes. <br/>
 # License
-This project is licensed under the MIT License - see the LICENSE file for details. <br/>
+This project is licensed under the MIT License - see the LICENSE file for detail. <br/>
 
 
 
